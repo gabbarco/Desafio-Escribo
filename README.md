@@ -13,13 +13,13 @@ Este projeto consiste em uma função simples implementada JavaScript, que receb
 2. Clone este repositório usando o seguinte comando:
 
    ```
-   git clone
+   git clone Desafio-Escribo
    ```
 
 3. Navegue até o diretório do projeto:
 
    ```
-   cd Desafio Escribo
+   cd Desafio-Escribo
    ```
 
 ## Execução
