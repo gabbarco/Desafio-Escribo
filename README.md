@@ -16,7 +16,7 @@ Este projeto consiste em uma função simples implementada JavaScript, que receb
    git clone Desafio-Escribo
    ```
 
-3. Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto (se necessário):
 
    ```
    cd Desafio-Escribo
